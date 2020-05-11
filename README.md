@@ -1,2 +1,2 @@
 # PedraPapelTesoura
-Uma Aplicação do Jogo Pedra,Papel ou Tesoura / Pedra,Papel,Tesoura,Lagarto ou Spock
+Uma Aplicação do Jogo Pedra,Papel ou Tesoura / Pedra,Papel,Tesoura,Lagarto ou Spock Feita em PHP
